@@ -5,9 +5,9 @@
 <h2>✨Welcome to my github✨</h2>
 
 <p> I recently got into coding after my good friend Tanya (<b>tanyaleepr</b> here in Github) persuaded me into join her in
-  her journey. Right know, I am obssessed with Web Development even though I am still learning about it (I am a newbie)
-  Even with all the headache that learning CSS has brought me, I am loving all of this and I am excited to share with
-  all of you my projects </p>
+  her journey. Right now, I'm obssessed with Web Development even though I am still learning about it (I am a newbie)
+  Even with all the headache that learning CSS has brought me, I am loving all of this and I am excited to share my projects
+with all of you!</p>
 
 <hr>
 
