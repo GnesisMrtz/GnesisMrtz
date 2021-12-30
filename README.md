@@ -23,5 +23,5 @@
   <li>I adore screenwriting✍🏽</li>
   <li>I was born in a island, at the caribbean and can't swin🚫🏊🏽‍♀️ </li>
   <li> I am bad at maths yet I am pretty optimistic of my Coding Journey ➕ </li>
-  <li> I am not a romantic yet I love romantic comedies </li>
+  <li> I am not a romantic yet I love romantic comedies💖</li>
 </ul>
