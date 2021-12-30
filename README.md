@@ -15,8 +15,10 @@ with all of you!</p>
 
 <ul>
   <li>I graduated college with a bachelor degree in arts of Psychology🎓</li>
+  <li> I have my own business👩🏽‍💼</li>
   <li>I LOVE karaoke🎙️</li>
   <li>Baking relaxes me🎂 </li>
+  <li>My nickname is "Rubie"💎 </li>
   <li>I have a certification on Beekeeping🐝</li>
   <li>My favorite food is Mofongo😋</li>
   <li>I am a ENFP-T💚</li>
@@ -25,3 +27,7 @@ with all of you!</p>
   <li> I am bad at maths yet I am pretty optimistic of my Coding Journey ➕ </li>
   <li> I am not a romantic yet I love romantic comedies💖</li>
 </ul>
+
+<h2> Social Media </h2>
+
+<a href="https://www.twitter.com/gnesismrtz/"><img src="http://i.imgur.com/tXSoThF.png" alt="Instagram"></a>
