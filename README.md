@@ -30,4 +30,15 @@ with all of you!</p>
 
 <h2> Social Media </h2>
 
-<a href="https://www.twitter.com/gnesismrtz/"><img src="http://i.imgur.com/tXSoThF.png" alt="Instagram"></a>
+<p style="text-align:center">
+
+<a href="https://www.twitter.com/gnesismrtz">
+<img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="W3Schools.com" width="44" height="44">
+</a>
+
+<a href="https://www.instagram.com/rubiemartinez">
+<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new" alt="Instagram" width="44" height="44">
+</a>
+
+
+
