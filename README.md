@@ -30,7 +30,7 @@ with all of you!</p>
 
 <h2> Social Media </h2>
 
-<p style="center">
+<p align="center">
 
 <a href="https://www.twitter.com/gnesismrtz">
 <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="W3Schools.com" width="44" height="44">
