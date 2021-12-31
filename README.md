@@ -48,11 +48,14 @@ with all of you!</p>
 
 <h2 align="center">Languages and Tools:</h2>
 
-<p aligh="center">
+<p>
+  
+  
+
+![toolsandlanguages (3)](https://user-images.githubusercontent.com/95339945/147800849-889aa18d-f800-4692-a478-331e20cddf24.png)
   
   
   
-![toolsandlanguages](https://user-images.githubusercontent.com/95339945/147800665-725f41d4-2dd1-4997-9602-15950c086725.png)
   
 
 
