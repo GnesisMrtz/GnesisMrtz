@@ -2,7 +2,7 @@
 
 ![githubwelcome](https://user-images.githubusercontent.com/95339945/147789506-196507ff-5e61-4c31-8ce4-e242d7d26e29.gif)
 
-<h2>✨Welcome to my github✨</h2>
+<h2 align="left">✨Welcome to my github✨</h2>
 
 <p> I recently got into coding after my good friend Tanya (<b>tanyaleepr</b> here in Github) persuaded me into join her in
   her journey. Right now, I'm obssessed with Web Development even though I am still learning about it (I am a newbie)
@@ -11,7 +11,7 @@ with all of you!</p>
 
 <hr>
 
-<h2> FUN FACTS ABOUT ME ✔️</h2>
+<h2 align="center"> FUN FACTS ABOUT ME ✔️</h2>
 
 <ul>
   <li>I graduated college with a bachelor degree in arts of Psychology🎓</li>
@@ -28,7 +28,7 @@ with all of you!</p>
   <li> I am not a romantic yet I love romantic comedies💖</li>
 </ul>
 
-<h2> Social Media </h2>
+<h2 align="center"> Social Media </h2>
 
 <p align="center">
 
