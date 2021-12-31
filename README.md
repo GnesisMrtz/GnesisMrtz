@@ -40,5 +40,11 @@ with all of you!</p>
 <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new" alt="Instagram" width="44" height="44">
 </a>
 
-</p>
+ <a href="https://www.linkedin.com/in/genesisamartinez">
+<img src="https://img.icons8.com/glyph-neue/64/000000/linkedin.png" alt="LinkedIn" width="44" height="44">
+</a>  
+    </p>
+<hr>
+
+<h2 align="center">Languages and Tools:</h2>
 
