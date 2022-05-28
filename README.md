@@ -4,8 +4,20 @@
 
 <h2 align="left">✨Welcome to my github✨</h2>
 
-<p> I am a software engineer enjoying my journey of becoming a Full Stack Web Developer. Even with all the headache that learning CSS has brought me, I am loving all of this and I am excited to share my projects
-with all of you!</p>
+<p>Bilingual Digital Marketing Specialist with a passion for community involvement and personal development. Interested in promoting art through the knowledge of social justice, psychology, healthcare, customer service, film, and social media. Currently seeking opportunities in Project Management. 
+<br>
+  <br>
+Will graduate from 100Dev's Full Stack Software Engineer program in July 2022.
+
+Diploma in B.S. Psychology
+
+Portfolio: https://www.genesismartinez.dev/
+
+Certifications:
+- SEO for WordPress 
+- Figma and UI/UX
+- Fundamentals of Google Ads from the Beginner to Advanced level
+- HarvardX CS50x - CS50’s Introduction to Computer Science course at EdX</p>
 
 <hr>
 
